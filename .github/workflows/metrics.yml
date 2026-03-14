@@ -20,4 +20,34 @@ jobs:
           user: rashelshah
           filename: github-metrics.svg
 
-          base: header, activity, repositories
+          # Base profile stats
+          base: header, activity, community, repositories, metadata
+
+          # Show full commit history
+          commits_authoring: rashelshah
+
+          # Contribution statistics
+          plugin_contributors: yes
+
+          # Pull request stats
+          plugin_followup: yes
+
+          # Issue stats
+          plugin_issues: yes
+
+          # Repository contribution stats
+          plugin_repositories: yes
+
+          # Commit streak stats
+          plugin_streak: yes
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+
+          # Language usage
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          # Increase repo scanning
+          repositories: 100
+          repositories_batch: 100
