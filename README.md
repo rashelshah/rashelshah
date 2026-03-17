@@ -15,8 +15,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=rashelshah&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=rashelshah&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
-
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rashelshah&theme=dark&hide_border=true" height="170"/>
 <br/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rashelshah&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
