@@ -14,12 +14,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashelshah&theme=dark&include_all_commits=true&hide_border=true&show_icons=true" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=rashelshah&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashelshah&theme=dark&include_all_commits=true&hide_border=true&show_icons=true" height="170" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=rashelshah&theme=dark&hide_border=true" height="170" width="48%" />
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rashelshah&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashelshah&theme=dark&utcOffset=5.5" alt="Productive Time" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rashelshah&theme=dark&hide_border=true&layout=compact&langs_count=8" height="170" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashelshah&theme=dark&utcOffset=5.5" height="170" width="45%" />
 
 <br/>
 
