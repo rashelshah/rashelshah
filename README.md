@@ -1,5 +1,9 @@
 <img src="banner-1.png"/> 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=rashelshah&style=for-the-badge&color=red&label=WHO'S+WATCHING)
+
+
 # 💫 About Me:
 🔭 Currently building Crypton AI, blending AI with web technologies<br>👯 Open to collaborating on full-stack apps, creative projects, and hackathon ideas<br>🤝 Always eager to learn from others, especially in scalable backend and clean frontend design<br>🌱 Diving deeper into MERN stack, API integrations, and cloud deployment<br>💬 Love talking about JavaScript, React, and turning ideas into real products<br>⚡ Fun fact: I won a hackathon at IIT Madras 🚀
 
