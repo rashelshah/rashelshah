@@ -1,5 +1,6 @@
-<img src="banner-1.png"/> 
-
+<div align="center">
+<img src="Rashel-Shah.png"/> 
+</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rashelshah&style=for-the-badge&color=red&label=WHO'S+WATCHING)
