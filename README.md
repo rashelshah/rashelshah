@@ -3,7 +3,7 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=rashelshah&style=for-the-badge&color=red&label=WHO'S+WATCHING)
+![Profile Views](https://komarev.com/ghpvc/?username=rashelshah&style=for-the-badge&color=yellow&label=WHO'S+WATCHING)
 
 
 # 💫 About Me:
